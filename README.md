@@ -27,7 +27,14 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
 
 ## 📈 GitHub Stats
 
-![Arya Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryachandrak&show_icons=true&theme=radical)
+<div align="center">
+    <h3>🟩 Contributions 🟩</h3>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryachandrak/aryachandrak/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryachandrak/aryachandrak/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/aryachandrak/aryachandrak/output/github-snake-dark.svg" />
+    </picture>
+</div>
 
 ---
 
