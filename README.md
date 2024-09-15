@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Arya Chandra Kusuma! 👋
 
-<!--
-**aryachandrak/aryachandrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-stack Developer | AI Enthusiast | Cybersecurity Learner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building cutting-edge web and mobile applications, exploring the latest in AI, and diving deep into the world of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 💻 **Currently working on**: Building responsive web and mobile applications using **React**, **Flutter**, and exploring AI technologies.
+- 🔐 **Learning**: Advanced cybersecurity techniques and ethical hacking. Always eager to enhance my skills.
+- 💡 **Favorite Languages**: Dart, Java.
+- 🎯 **Goals**: Contribute to open-source projects and share knowledge with the developer community.
+
+---
+
+## 🔧 My Tech Stack
+
+- **Frontend**: React, Flutter, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express, MongoDB, Firebase
+- **AI & ML**: TensorFlow, PyTorch, Scikit-learn
+- **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
+- **Version Control**: Git, GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![Arya Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryachandrak&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arya-chandra-kusuma-092120298/)
+<!-- - 🌐 [Portfolio](https://www.johndoe.dev) -->
+
+Thanks for visiting my profile! Let's build something amazing together! 😊
