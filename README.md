@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
     <h3>🟩 Contributions 🟩</h3>
     <picture>
@@ -36,15 +34,21 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
     </picture>
 </div>
 
----
+<hr />
+
+<div align="center">
+    <h3>⚡ Stats ⚡</h3>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryachandrak&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="495" height="195" src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=aryachandrak&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
+    </a>
+</div>
 
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arya-chandra-kusuma-092120298/)
 <!-- - 🌐 [Portfolio](https://www.johndoe.dev) -->
+---
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/aryachandrak/aryachandrak/output/github-snake-dark.svg" />
-
-###
 
 Thanks for visiting my profile! Let's build something amazing together! 😊
