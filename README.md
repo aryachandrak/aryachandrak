@@ -36,4 +36,8 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
 - 💼 [LinkedIn](https://www.linkedin.com/in/arya-chandra-kusuma-092120298/)
 <!-- - 🌐 [Portfolio](https://www.johndoe.dev) -->
 
+<img src="https://raw.githubusercontent.com/aryachandrak/aryachandrak/output/snake.svg" alt="Snake animation" />
+
+###
+
 Thanks for visiting my profile! Let's build something amazing together! 😊
