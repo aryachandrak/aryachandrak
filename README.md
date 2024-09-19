@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
 ---
 
 ## 🔧 My Tech Stack
-
-- **Frontend**: React, Flutter, HTML, CSS, JavaScript
+Nothing, still learn 
+<!-- **Frontend**: React, Flutter, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express, MongoDB, Firebase
 - **AI & ML**: TensorFlow, PyTorch, Scikit-learn
 - **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub -->
 
 ---
 
