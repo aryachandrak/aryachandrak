@@ -6,25 +6,6 @@ Welcome to my GitHub profile! I'm passionate about building cutting-edge web and
 
 ---
 
-## 🌟 About Me
-
-- 💻 **Currently working on**: Building responsive web and mobile applications using **React**, **Flutter**, and exploring AI technologies.
-- 🔐 **Learning**: Advanced cybersecurity techniques and ethical hacking. Always eager to enhance my skills.
-- 💡 **Favorite Languages**: Dart, Java.
-- 🎯 **Goals**: Contribute to open-source projects and share knowledge with the developer community.
-
----
-
-## 🔧 My Tech Stack
-Nothing, still learn 
-<!-- **Frontend**: React, Flutter, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, MongoDB, Firebase
-- **AI & ML**: TensorFlow, PyTorch, Scikit-learn
-- **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
-- **Version Control**: Git, GitHub -->
-
----
-
 <div align="center">
     <h3>🟩 Contributions 🟩</h3>
     <picture>
